@@ -1,0 +1,2 @@
+object MaxSlidingWindow extends App {
+    }
