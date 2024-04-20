@@ -1,0 +1,11 @@
+[debug] > Exec(pip install apache-airflow, None, None)
+[error] Expected ID character
+[error] Not a valid command: pip (similar: apply, plugin, append)
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected key
+[error] Not a valid key: pip (similar: skip, ps, apiURL)
+[error] pip install apache-airflow
+[error]    ^
+[debug] > Exec(idea-shell, None, None)
